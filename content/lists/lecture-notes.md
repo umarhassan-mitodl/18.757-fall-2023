@@ -1,0 +1,42 @@
+---
+content_type: resource-list
+description: ''
+draft: false
+resources:
+  content:
+  - df3666a3-7bec-44d1-aed0-2e6343d61e1c
+  - 1872b0f0-c5fe-4829-a884-ce6ec7b37e13
+  - 8ae12c18-8659-4505-b687-2008381cb303
+  - 4c37a461-8420-4b29-85f8-95d63740f8cb
+  - af3c2823-5922-4188-9eaa-61f235ea9401
+  - 48b33cac-9878-4c43-b9c9-1511eacbb854
+  - c9c1b4e0-60e5-4b31-b83d-995ef66c2bc4
+  - 9827b60d-04bd-489e-bb2d-65c591f42a83
+  - 33fdc649-27ca-4b1c-a49e-db3808887606
+  - e89a38b5-f91e-404d-bebe-e3b2f1a93b58
+  - 5f00c6af-b219-4d25-a7b5-89fed98be45b
+  - 3b1c2283-fac9-4bbf-9082-d886fcfe0675
+  - 403d141b-a037-4094-ab57-2010029082f3
+  - 8a95b1ee-eee4-43a3-a02c-a4bdbc970865
+  - 02c25966-0d44-4da6-a3c0-6cc99e368ec0
+  - e8705457-57bf-4a4c-8878-f84ec8c2b09c
+  - 7f9d6e39-71d9-4150-a654-5814e92afdfb
+  - 7aa3fdd3-b3c8-4dff-8181-c6116757d40c
+  - 6fb4d21e-d91c-4df5-b04a-3ab90468569b
+  - e4860618-f5af-4dbf-9167-13d5426f8885
+  - 517c3c21-3262-4688-80fc-be59a520458a
+  - 24e887b0-2fc1-4385-85c9-876705667503
+  - acde5c64-ec4c-4b8f-aa04-ff4b53ab0d02
+  - d154111c-9829-4a45-b1b7-63ca0a68712a
+  - 1e931f4e-3cf9-4f98-bfba-8187a7947bfd
+  - 7a63c735-0c96-46c2-8a80-30edc32a8c3e
+  - 6a086fcc-e9a1-49ed-9732-6638fdc96f07
+  - 4933e221-d77b-490b-8a27-20f0ea8612d9
+  - bbe9af20-f36e-4361-8acc-3b1273da79b4
+  - a68b0894-9106-4a28-baba-a0ecd93460d4
+  - fb6b0a95-ed61-4e1d-988d-0e9719bbc009
+  - 34d3ddbd-05b8-4fe3-a024-f76f6973c950
+  website: representations-of-lie-groups
+title: Lecture Notes
+uid: 8b164eb9-830a-4775-8839-fd2a3ce47e2c
+---
